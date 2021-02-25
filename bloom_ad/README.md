@@ -1,17 +1,9 @@
 # Welcome to my Bloom Cloned Ad App!
-I ran into a captivating ad from Bloom while I was going through my Instagram story. It was only tempting for me to clone and run a test against it. 
-See the ad and results of the test in the assests folder!
+This pet project is to showcase my ability to create simple, tasteful designs in React and implement test driven development to mitigate errors in production. This unit test was created with React Testing Library. 
 
-## Available Scripts
+💡 Test description includes helpful next steps should you desire to resolve any errors. :) 
 
-In the project directory, I invite you to run:
-### `npm start`
-You will be able to see the cloned ad.
-
-### `npm test`
-You will be able to see the error I checked for. 
-
-## TDLR
-See pictures stored in assets.
+## View the clone 🔥
+https://bloomadclone.vercel.app/
 
 
