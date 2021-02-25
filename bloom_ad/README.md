@@ -3,7 +3,7 @@ This pet project is to showcase my ability to create simple, tasteful designs in
 
 💡 Test description includes helpful next steps should you desire to resolve any errors. :) 
 
-## View the clone 🔥
+## 🔥 View the clone
 https://bloomadclone.vercel.app/
 
 
