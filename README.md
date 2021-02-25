@@ -9,7 +9,7 @@ In the project directory, I invite you to run:
 You will be able to see the cloned ad.
 
 ### `npm test`
-You will be able to see the error I checked for. 
+You will be able to run the test and see the results. 
 
 ## TDLR - For Leon and Daniel
 See pictures stored in assets.
