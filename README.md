@@ -11,5 +11,5 @@ You will be able to see the cloned ad.
 ### `npm test`
 You will be able to run the test and see the results. 
 
-## TDLR 👉🏼 For Leon and Daniel
-See pictures stored in assets.
+## TDLR - For Leon and Daniel
+👉🏼 See pictures stored in assets. Link to view clone in bloom_ad > README.md 
