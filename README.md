@@ -13,4 +13,4 @@ You will be able to run the test and see the results.
 
 ## TDLR - For Leon and Daniel
 👉🏼 Link to view clone in bloom_ad > README.md 
-👉🏼 See pictures stored in assets. 
+<p>👉🏼 See pictures stored in assets.</p>
