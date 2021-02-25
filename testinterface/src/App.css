@@ -10,16 +10,10 @@
   align-items: left;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(43, 40, 39);
 }
 
 .App-text {
-  background-color: #e0b8ab;
+  background-color: rgb(235, 171, 150);
 }
 
-.App-text h1 {
-  color: #2b2827;
-}
-.App-text p {
-  color: #2b2827;
-}
