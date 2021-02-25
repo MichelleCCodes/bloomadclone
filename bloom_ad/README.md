@@ -5,4 +5,4 @@
 
 ## 🔥 View the clone
 👉🏼 https://bloomadclone.vercel.app/
-👉🏼 See pictures stored in assets.
+<p>👉🏼 See pictures stored in assets.</p>
