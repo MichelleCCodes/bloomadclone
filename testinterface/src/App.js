@@ -1,20 +1,19 @@
-import React from 'react'; 
-import './App.css';
-import Description from './Description'; 
+import React from "react";
+import "./App.css";
+import Description from "./Description";
 
 function App() {
   return (
-    <>
     <div className="App">
       <header className="App-header">
-      <h1>Be your own therapist</h1>
-      <div> with cognitive</div>
-      <div> behaviotal therapy</div>
-      <h1>yes, it works.</h1>
+        <div className="App-text">
+          <h1>Be your own therapist</h1>
+          <p>with <strong>cognitive behaviotal therapy</strong></p>
+          <h2>yes, it works.</h2>
+        </div>
+        <Description />
       </header>
     </div>
-  <Description/>
-  </>
   );
 }
 
