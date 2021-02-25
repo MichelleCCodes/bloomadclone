@@ -12,4 +12,5 @@ You will be able to see the cloned ad.
 You will be able to run the test and see the results. 
 
 ## TDLR - For Leon and Daniel
-👉🏼 See pictures stored in assets. Link to view clone in bloom_ad > README.md 
+👉🏼 Link to view clone in bloom_ad > README.md 
+👉🏼 See pictures stored in assets. 
