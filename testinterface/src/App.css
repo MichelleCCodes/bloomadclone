@@ -1,19 +1,50 @@
-.App {
-  text-align: left;
+h1 {
+  margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
 
-.App-header {
-  background-color: #282c34;
+.App {
+  text-align: left;
+  background-color: rgb(255, 182, 158);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: left;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: rgb(43, 40, 39);
 }
 
-.App-text {
-  background-color: rgb(235, 171, 150);
+.App p {
+  padding: 0 2em;
+}
+/* add gradient effect here */
+.App-box {
+  background-color: rgb(235, 171, 150); 
+  background-image: linear-gradient(to right, rgb(255, 182, 158), rgb(219, 172, 160));
+  padding: 4em 2em;
+  display:flex;
+  flex-direction: column;
 }
 
+.App-text .text-top{
+  font-family: 'Crimson Pro', serif;
+  font-size: 2em;
+  }
+  
+.App-text .text-bottom{
+color: rgb(252, 247, 245);
+font-family: 'Crimson Pro', serif;
+font-size: 2em;
+}
+
+.App-text p{
+  border-left: 1.5px rgb(252, 247, 245) solid;
+  width: 30vw;
+  line-height: 1.6;
+  margin: .5em;
+  padding: 1em;
+}
