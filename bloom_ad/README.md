@@ -4,6 +4,5 @@
 😉 Test description includes helpful next steps should you desire to resolve any errors.
 
 ## 🔥 View the clone
-https://bloomadclone.vercel.app/
-
-
+👉🏼 https://bloomadclone.vercel.app/
+👉🏼 See pictures stored in assets.
