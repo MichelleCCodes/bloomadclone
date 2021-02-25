@@ -11,5 +11,5 @@ You will be able to see the cloned ad.
 ### `npm test`
 You will be able to see the error I checked for. 
 
-## TDLR
+## TDLR - For Leon and Daniel
 See pictures stored in assets.
